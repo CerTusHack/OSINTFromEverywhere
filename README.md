@@ -22,7 +22,7 @@ Este repositorio contiene una implementación básica de navegación en una apli
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
 ```
-git clone [https://github.com/Chillis-Associates/OSINTFromEverywhere.git]
+git clone https://github.com/Chillis-Associates/OSINTFromEverywhere.git
 ```
 
 2. Accede a la carpeta del proyecto:
